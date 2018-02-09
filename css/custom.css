@@ -81,8 +81,8 @@ a:hover {
 	margin: 40px 0 40px 0;
 }
 .logo img{
-	width: 400px; 
-	height: 200px
+	width: 100%; 
+	height: auto;
 }
 .landing h1{
 	font-size: 56px;
